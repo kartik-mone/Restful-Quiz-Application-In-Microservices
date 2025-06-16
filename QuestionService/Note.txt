@@ -1,0 +1,14 @@
+							# Dependencies
+
+
+1. Spring Web Web
+
+2. MySQL Driver SQL
+
+3. Lombok Developer Tools
+
+4. Spring Data JPA SQL
+
+5. OpenFeign Spring Cloud Routing
+
+6. Eureka Discovery Client 
